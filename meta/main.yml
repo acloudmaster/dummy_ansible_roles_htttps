@@ -1,7 +1,7 @@
 galaxy_info:
-  author: your name
-  description: your role description
-  company: your company (optional)
+  author: Arvind_Kumar
+  description: This is for testing ansible roles
+  company: acloudmaster group
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
